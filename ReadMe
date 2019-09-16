@@ -1,0 +1,24 @@
+This directory contains Johan´s experimental protocols. 
+
+"TEMPLATES"
+The folder contains template protocols that are regularly performed protocols, adjust them according to the upcoming
+experiments without having to write them from scratch. 
+The name of templates just has the name of the protocol and ends with "_template", e.g. the protocol for western blotting would be 
+called "Western_blott_template". 
+
+"OLD PROTOCOLS"
+Contains already perfomed protocols the name of these protocols should follow the following order: 
+1. date in the form of YYMMDD
+2. Name of protocol e.g. western blott
+3. project reference e.g. Houston collection
+4. Other valuble information if certain strain, carrier, conjugate, conc, were used etc. 
+
+EX of a western blott protocol performed 8th of march 2017 on the houston collection : 
+"170308_Western-blott_Houston-Collection_7.5%preCast-gel"
+
+"ONGOING/PLANNED PROTOCOLS"
+Contains protocols to be performed in the near future, these will be named according to the specifications of "OLD PROTOCOLS"
+with the exception of having the date modified to YYXXXX until the date is known. 
+
+EX of a planned western blott protocol to be performed somtime during 2019 on the Houston collection  : 
+"19XXXX_Western-blott_Houston-Collection_7.5%preCast-gel"
